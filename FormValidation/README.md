@@ -65,7 +65,7 @@ Open your browser and head to 👉 [http://localhost:3000](http://localhost:3000
 
 ---
 
-> Made with ❤️ by \[Gaurav Kadam]
+> Created by \[Gaurav Kadam]
 
 
 
