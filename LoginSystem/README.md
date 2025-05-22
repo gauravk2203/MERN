@@ -53,7 +53,7 @@ Open your browser and head to 👉 [http://localhost:3000](http://localhost:3000
 
 ## 🛠 Tech Stack
 
-* 🗄️ MongoDB (Database to store users)
+* 🗄️ HardCode Data for practice purpose
 * 🚀 Node.js + Express (Backend API + JWT handling)
 * ⚛️ React (Frontend with hooks and context)
 * 🔐 JSON Web Tokens (Authentication)
